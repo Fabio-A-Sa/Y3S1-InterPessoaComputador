@@ -9,6 +9,13 @@ Duas das grandes áreas da interação são:
 
 ### 1.1.1 - User Experience (UX)
 
+É toda a experiência subjectiva que o sistema pode proporcionar, desde a tecnologia ao marketing, unboxing, estética e emoções. Está envolvida em todo o contexto do produto e não só o artefacto em si. <br>
+Ninguém cria a experiência do utilizador, mas sim o artefacto que leva a essa experiência. 
+
+<p align="center">
+    <img src="../Images/UXUI.png" alt="UX vs UI">
+    <p align="center">Figura 1: User Interface vs. User Experience</p>
+</p>
 
 ### 1.1.2 - User Interface (UI)
 
