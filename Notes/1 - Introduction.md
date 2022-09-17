@@ -34,3 +34,7 @@ Uma melhor solução é usar o *Iteractive Design Process*, que se compõem em c
 
 Um protótipo pode ser feito em papel, que é menos moldável, ou usando um software próprio como o [PenPot](https://penpot.app).
 
+<p align="center">
+    <img src="../Images/Prototype.png" alt="Mobile Prototype">
+    <p align="center">Figura 2: Exemplo de protótipo de uma aplicação mobile</p>
+</p>
