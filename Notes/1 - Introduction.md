@@ -20,7 +20,14 @@ Ninguém cria a experiência do utilizador, mas sim o artefacto que leva a essa 
 
 ### 1.2 - User Centered Design (UCD)
 
-Processo iterativo em que os designers focam nos utilizadores e nas suas necessidades em cada fase no processo de desenho do produto. Usam ferramentas investigativas como entrevistas ou formulários. 
+Processo iterativo em que os designers focam nos utilizadores e nas suas necessidades em cada fase no processo de desenho do produto. Usam ferramentas investigativas como entrevistas ou formulários para conhecer o contexto dos utilizadores, perceber que os seus interesses poderão ser opostos ao que se estipula como normal.
 
 ## 2 - Design Process
 
+O *Waterfall Model* assume que tudo já é completamente conhecido e especificado e testa a funcionalidade só depois da implementação, pelo que não é uma boa escolha para desenhar produtos que dependem da subjectividade dos utilizadores.  
+
+Uma melhor solução é usar o *Iteractive Design Process*, que se compõem em curtas iterações e tem três fases principais de desenvolvimento:
+
+1. Idealizar e desenhar;
+2. Criar um protótipo;
+3. Testar e avaliar, muitas vezes com;
