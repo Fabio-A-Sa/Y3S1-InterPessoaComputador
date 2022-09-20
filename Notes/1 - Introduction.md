@@ -30,4 +30,7 @@ Uma melhor solução é usar o *Iteractive Design Process*, que se compõem em c
 
 1. Idealizar e desenhar;
 2. Criar um protótipo;
-3. Testar e avaliar, muitas vezes com;
+3. Testar e avaliar, muitas vezes junto dos utilizadores finais, *stakeholders*;
+
+Um protótipo pode ser feito em papel, que é menos moldável, ou usando um software próprio como o [PenPot](https://penpot.app).
+
