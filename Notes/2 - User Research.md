@@ -66,3 +66,14 @@ Para informação quantificável ou numeral, por exemplo quantos minutos o utili
 
 ## Personas
 
+É uma caracterização clara de um utilizador, que tem como objectivo ajudar a tomar decisões no campo dos requisitos, das funcionalidades, navegação no sistema, interações e até do próprio design. É caracterizada por:
+
+- Motivações/Objectivos
+- Necessidades
+- Frustrações
+
+A descrição deve ser rica em detalhes e definir um conjunto típico de utilizadores da aplicação. Exemplo:
+
+## Cenários de contexto/atividade
+
+As Personas devem ser complementadas com uma série de cenários, como uma história, onde a aplicação a desenvolver poderia ser útil. Não deve ter detalhes de implementação.
