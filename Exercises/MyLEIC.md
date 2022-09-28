@@ -32,13 +32,20 @@ Para comportar todos os alunos do curso, a aplicação terá um design simples e
 > Experiência em programação (nenhuma, iniciante, intermédia, avançada) <br>
 > Experiência em ferramentas de controlo de versão como o Git <br>
 
-### 2.2 Proposta de uma solução
+### 2.2 Apresentação do problema e proposta de uma solução
 
-Os dados revelam que todos os inquiridos usam mais do que quatro plataformas para realizar cada um dos projectos propostos ao longo do curso. Desses, 95% dos inquiridos gostariam de ter acesso a uma única plataforma que reunisse todas as ferramentas referidas anteriormente. A maioria sentir-se-ia mais focada no trabalho a desenvolver, impactando positivamente no rendimento e aproveitamento do tempo.
+Os dados revelam que todos os inquiridos usam mais do que quatro plataformas para realizar cada um dos projectos propostos ao longo do curso. Desses, 95% gostariam de ter acesso a uma única plataforma que reunisse todas as ferramentas referidas anteriormente. A maioria sentir-se-ia mais focada no trabalho a desenvolver, impactando positivamente no rendimento e aproveitamento do tempo.
+
+> Qual ou quais plataformas usa frequentemente para elaborar projectos do curso?
+> Quão importante seria existir uma plataforma centralizada que reunisse todas as plataformas anteriores?
+> Em que medida a utilização dessa plataforma melhoraria a sua qualidade de estudo (concentração, organização, rendimento...)
 
 ### 2.3 Requisitos funcionais
 
+Há uma grande preocupação em que a aplicação tenha um design familiar aos olhos dos utilizadores. Para isso questionamos qual é o IDE/Text Editor de eleição para programar. Neste requisito o VSCode foi, de longe, o mais escolhido.
 
+> Qual IDE/Text Editor usa mais frequentemente?
+>
 
 ## Repostas
 
