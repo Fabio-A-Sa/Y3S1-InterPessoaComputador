@@ -17,6 +17,8 @@ Os que vão utilizar por último o produto, pois têm necessidades e expectativa
 
 ## Métodos
 
+Deve ser conhecidos dados etnográficos, para permitir caracterizar os utilizadores sob o ponto de vista contextual, natural, longitudinal, colaborativo, interpretativo e presente. Para isso, há avaliações em vários campos, nomeadamente:
+
 ### Atitudinais e comportamentais
 
 #### Atitudinais
@@ -61,3 +63,6 @@ Para informação quantificável ou numeral, por exemplo quantos minutos o utili
 
 - Questionários, inquéritos;
 - Relato;
+
+## Personas
+
