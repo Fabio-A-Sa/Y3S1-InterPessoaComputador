@@ -74,6 +74,11 @@ Para informação quantificável ou numeral, por exemplo quantos minutos o utili
 
 A descrição deve ser rica em detalhes e definir um conjunto típico de utilizadores da aplicação. Exemplo:
 
+<p align="center">
+    <img src="../Images/Persona.png">
+    <p align="center">Image 1: Persona Example</p>
+</p>
+
 ## Cenários de contexto/atividade
 
-As Personas devem ser complementadas com uma série de cenários, como uma história, onde a aplicação a desenvolver poderia ser útil. Não deve ter detalhes de implementação.
+As Personas devem ser complementadas com uma série de cenários, como uma história, onde a aplicação a desenvolver poderia ser útil. Não deve ter detalhes de implementação da User Interface.
