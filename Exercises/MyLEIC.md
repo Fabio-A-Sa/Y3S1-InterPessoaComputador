@@ -19,25 +19,24 @@ Com a `MyLEIC` todo o ambiente necessário ficará à distância de um clique e 
 
 ## 2. Questionário
 
-O questionário teve como público alvo os alunos atuais do LEIC.
+O questionário, disponível [aqui](https://docs.google.com/forms/d/1iKJoHXNnsMDaZH4x4fmuw-VroRcyJrpFOu9RPHErHTw/edit), teve como público alvo os alunos atuais do LEIC. Através de questões simples, averiguamos os seguintes aspectos:
 
-### 2.1 Caraterização sociodemográfica
+### 2.1 Caraterização dos inquiridos
 
-Foi importante perceber a faixa etária
+Foi importante perceber a faixa etária consultada e as suas competências na área da informática. Os dados recolhidos revelaram que a maioria dos inquiridos têm conhecimento intermédio nos domínios da programação e versionamento de código. 
 
-### 2.2 Caraterização de competências na área da informática
+Para comportar todos os alunos do curso, a aplicação terá um design simples e intuitivo.
 
+> Faixa etária <br>
+> Ano curricular atual <br>
+> Experiência em programação (nenhuma, iniciante, intermédia, avançada) <br>
+> Experiência em ferramentas de controlo de versão como o Git <br>
 
+### 2.2 Proposta de uma solução
 
-### 2.3 Criação de uma necessidade
+Os dados revelam que todos os inquiridos usam mais do que quatro plataformas para realizar cada um dos projectos propostos ao longo do curso. Desses, 95% dos inquiridos gostariam de ter acesso a uma única plataforma que reunisse todas as ferramentas referidas anteriormente. A maioria sentir-se-ia mais focada no trabalho a desenvolver, impactando positivamente no rendimento e aproveitamento do tempo.
 
-
-
-### 2.4 Proposta de uma solução
-
-
-
-### 2.5 Refinar os requisitos, sob o ponto de vista visual e funcional
+### 2.3 Requisitos funcionais
 
 
 
