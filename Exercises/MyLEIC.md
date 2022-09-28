@@ -43,15 +43,50 @@ Os dados revelam que todos os inquiridos usam mais do que quatro plataformas par
 Há uma grande preocupação em que a aplicação tenha um design familiar aos olhos dos utilizadores. Para isso questionamos qual é o IDE/Text Editor de eleição para programar. Neste requisito o VSCode foi, de longe, o mais escolhido.
 
 Além disso, notou-se uma preocupação crescente para melhorar a colaboração entre alunos do mesmo grupo e até entre grupos da mesma Unidade Curricular. 
-Live Chat, chamadas de voz, e programação colaborativa foram as mais requisitadas.
+Possibilidade de reuniões com Live Chat, chamadas de voz e programação colaborativa foram os requisitos mais desejados.
 
 > Qual IDE/Text Editor usa mais frequentemente? <br>
 > Funcionalidades do IDE (várias linguagens, acesso direto a ferramentas do git, histórico de modificações de ficheiros, debugger, dark mode); <br>
-> Em que medida a incorporação de um sistema de colaboração entre alunos e entre grupos seria favorável ao aprendizado (dúvidas, organização, distribuição de tarefas, agendar reuniões diárias de grupo...)? <br>
+> Em que medida a incorporação de um sistema de colaboração entre alunos e entre grupos seria favorável ao aprendizado (dúvidas, organização, distribuição de tarefas, agendar reuniões diárias...)? <br>
 
 ## 3. Repostas
 
+### 3.1. Who are the users?
+Just age is not enough…
 
+### 3.2. What tasks do they perform?
+Currently.
+
+### 3.3. What tasks are desirable?
+Be creative!
+
+### 3.4. How are tasks learned?
+Not how users learn how to use new devices.
+Is there any previous knowledge required?
+
+### 3.5. Where are tasks performed?
+Characterize the environment.
+
+### 3.6. What is the relationship between user and information?
+Identify sensitive and/or shared information.
+Do users feel comfortable in sharing such information?
+How do they access the information?
+
+### 3.7. What other instruments does the user have?
+Identify other instruments used in such tasks.
+
+### 3.8. How do users communicate?
+If they do at all... If so, how?
+
+### 3.9. How often tasks are performed?
+Identify which tasks are more frequent.
+
+### 3.10. Are there time restrictions?
+How long are users willing to spend to perform a task?
+
+### 3.11. What happens if something goes wrong?
+Not only what can go wrong, but also how users deal with
+that.
 
 ## 4. Personas
 
@@ -61,7 +96,7 @@ A Maria Cândida é uma aluna do LEIC que embora tenha todos os recursos dispon�
 
 ### 4.2 Persona 2
 
-O Tó Pereira é um aluno do LEIC que por não ter computador com capacidade de suportar algumas aplicações precisa de usar um dos disponíveis na Biblioteca da FEUP. Mas devido quantidade de software diferente a instalar torna o estudo que poderia ser produtivo num autêntico desastre. Isto para não falar nas reuniões diárias que tem de entrar para ajudar no grupo.
+O Tó Pereira é um aluno do LEIC que por não ter computador com capacidade de suportar algumas aplicações precisa de usar um dos disponíveis na Biblioteca da FEUP. Mas todos têm o sistema operativo Windows e devido à quantidade de software diferente a instalar torna o estudo que poderia ser produtivo num autêntico desastre. Isto para não falar nas reuniões diárias que tem de entrar para ajudar o seu grupo.
 
 ### 4.3 Persona 3
 
