@@ -17,6 +17,16 @@ Os que vão utilizar por último o produto, pois têm necessidades e expectativa
 
 ## Métodos
 
+### Atitudinais e comportamentais
+
+#### Atitudinais
+
+O que as pessoas fazem/querem fazer com o produto
+
+#### Comportamentais
+
+O que as pessoas dizem sobre o produto
+
 ### Formais e informais
 
 #### Formais
@@ -30,6 +40,22 @@ Os que vão utilizar por último o produto, pois têm necessidades e expectativa
 - Modo mais exploratório para descobrir necessidades do utilizador;
 - Adequado para criar novos designs, como é o caso desta Unidade Curricular;
 
-### 
+### Quantidade e qualidade
+
+#### Quantidade
+
+
+
+#### Qualidade
+
+
 
 ### Implícitos e Explícitos
+
+#### Implícitos
+
+
+
+#### Explícitos
+
+
