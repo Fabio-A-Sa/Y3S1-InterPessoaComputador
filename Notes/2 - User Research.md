@@ -44,18 +44,20 @@ O que as pessoas dizem sobre o produto
 
 #### Quantidade
 
-
+Para informação quantificável ou numeral, por exemplo quantos minutos o utilizador demora a performar determinada tarefa
 
 #### Qualidade
 
-
+É mais subjectiva. Depende das percepções com base na experiência do utilizador. Podem ser avaliadas, por exemplo, com recurso a um questionário.
 
 ### Implícitos e Explícitos
 
 #### Implícitos
 
-
+- Estudos de observação;
+- Medidas de reação e de tarefas;
 
 #### Explícitos
 
-
+- Questionários, inquéritos;
+- Relato;
