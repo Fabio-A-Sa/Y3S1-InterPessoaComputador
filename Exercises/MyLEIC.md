@@ -23,33 +23,46 @@ O questionário, disponível [aqui](https://docs.google.com/forms/d/1iKJoHXNnsMD
 
 ### 2.1 Caraterização dos inquiridos
 
-Foi importante perceber a faixa etária consultada e as suas competências na área da informática. Os dados recolhidos revelaram que a maioria dos inquiridos têm conhecimento intermédio nos domínios da programação e versionamento de código. 
-
-Para comportar todos os alunos do curso, a aplicação terá um design simples e intuitivo.
+Foi importante perceber a faixa etária consultada e as suas competências na área da informática, para que a aplicação seja útil a todos os níveis de conhecimento. Os dados recolhidos revelaram que a maioria dos inquiridos têm conhecimento intermédio nos domínios da programação e versionamento de código. 
 
 > Faixa etária <br>
 > Ano curricular atual <br>
 > Experiência em programação (nenhuma, iniciante, intermédia, avançada) <br>
-> Experiência em ferramentas de controlo de versão como o Git <br>
+> Experiência em ferramentas de controlo de versão como o Git (nenhuma, iniciante, intermédia, avançada)<br>
 
 ### 2.2 Apresentação do problema e proposta de uma solução
 
 Os dados revelam que todos os inquiridos usam mais do que quatro plataformas para realizar cada um dos projectos propostos ao longo do curso. Desses, 95% gostariam de ter acesso a uma única plataforma que reunisse todas as ferramentas referidas anteriormente. A maioria sentir-se-ia mais focada no trabalho a desenvolver, impactando positivamente no rendimento e aproveitamento do tempo.
 
-> Qual ou quais plataformas usa frequentemente para elaborar projectos do curso?
-> Quão importante seria existir uma plataforma centralizada que reunisse todas as plataformas anteriores?
-> Em que medida a utilização dessa plataforma melhoraria a sua qualidade de estudo (concentração, organização, rendimento...)
+> Qual ou quais plataformas usa frequentemente para elaborar projectos do curso? <br>
+> Quão importante seria existir uma plataforma centralizada que reunisse todas as plataformas anteriores? <br>
+> Em que medida a utilização dessa plataforma melhoraria a sua qualidade de estudo (concentração, organização, rendimento...) <br>
 
 ### 2.3 Requisitos funcionais
 
 Há uma grande preocupação em que a aplicação tenha um design familiar aos olhos dos utilizadores. Para isso questionamos qual é o IDE/Text Editor de eleição para programar. Neste requisito o VSCode foi, de longe, o mais escolhido.
 
-> Qual IDE/Text Editor usa mais frequentemente?
->
+Além disso, notou-se uma preocupação crescente para melhorar a colaboração entre alunos do mesmo grupo e até entre grupos da mesma Unidade Curricular. 
+Live Chat, chamadas de voz, e programação colaborativa foram as mais requisitadas.
 
-## Repostas
+> Qual IDE/Text Editor usa mais frequentemente? <br>
+> Funcionalidades do IDE (várias linguagens, acesso direto a ferramentas do git, histórico de modificações de ficheiros, debugger, dark mode); <br>
+> Em que medida a incorporação de um sistema de colaboração entre alunos e entre grupos seria favorável ao aprendizado (dúvidas, organização, distribuição de tarefas, agendar reuniões diárias de grupo...)? <br>
+
+## 3. Repostas
 
 
 
-## Personas
+## 4. Personas
 
+### 4.1 Persona 1
+
+A Maria Cândida é uma aluna do LEIC que embora tenha todos os recursos disponíveis, como computador pessoal e sítio calmo para estudar, sente-se perdida no meio de tanta informação. Tem várias cadeiras em que o projecto é desenvolvido no GitHub, outras no GitLab, projectos onde a comunicação com os docentes é efetuada no Slack, outras no Moodle. Tenta marcar reuniões frequentes com os colegas de trabalho usando Whatsapp, Discord ou Email mas acaba por esquecer de algumas.
+
+### 4.2 Persona 2
+
+O Tó Pereira é um aluno do LEIC que por não ter computador com capacidade de suportar algumas aplicações precisa de usar um dos disponíveis na Biblioteca da FEUP. Mas devido quantidade de software diferente a instalar torna o estudo que poderia ser produtivo num autêntico desastre. Isto para não falar nas reuniões diárias que tem de entrar para ajudar no grupo.
+
+### 4.3 Persona 3
+
+#TODO, se quisermos
