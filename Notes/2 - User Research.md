@@ -1,5 +1,6 @@
 # User research
 
+Foca nos potenciais utilizadores, as suas características, as tarefas que eles querem/precisam fazer, o contexto dessas tarefas e as suas expectativas. Entender as reais necessidades pode salvar tempo, dinheiro e frustrações futuras. <br>
 Na criação de um sistema, há três entidades presentes:
 
 ### 1. Stakeholders
@@ -12,4 +13,23 @@ Procuram os utilizadores e as suas necessidades, espectativas, propostas, e proc
 
 ### 3. Users
 
-Os que vão utilizar por último o produto, pois têm necessidades e expectativas (nem sempre conscientes). É a sua experiência com o produto que vai ditar o sucesso do mesmo. Devem ser sempre o centro do processo de criação, usando o método `User-Centered Design`.
+Os que vão utilizar por último o produto, pois têm necessidades e expectativas (nem sempre conscientes). É a sua experiência com o produto que vai ditar o sucesso do mesmo. Devem ser sempre o centro do processo de criação, usando o método `User-Centered Design`, que é um processo iterativo.
+
+## Métodos
+
+### Formais e informais
+
+#### Formais
+
+- Lista estruturada de tarefas;
+- Diagrama de fluxo da informação/aplicação;
+- Adequada para sistemas existentes, onde o processo já está definido;
+
+#### Informais
+
+- Modo mais exploratório para descobrir necessidades do utilizador;
+- Adequado para criar novos designs, como é o caso desta Unidade Curricular;
+
+### 
+
+### Implícitos e Explícitos
