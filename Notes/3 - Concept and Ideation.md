@@ -8,6 +8,30 @@ Modelo que descreve o que os utilizadores podem fazer no sistema. Expressa objec
 - Não é um diagrama do sistema;
 - Não representa ações, nem especifica as interações possíveis;
 
+Um exemplo segundo os slides:
+
+**Objects (attributes):**
+- Photo (date, caption);
+- photo set (title);
+- event (local, date);
+- person (name);
+- archive (name, shared);
+- user (name)
+
+**Actions:**
+- Insert, remove, select photo;
+- create, edit, remove caption;
+- create, edit, remove event;
+- create, edit, remove, share archive
+
+**Relations:**
+- Archive has photos,
+- photo set has photos,
+- event has photos,
+- user access shared archive,
+- photo has persons,
+- person can be in several photos
+
 ## Requirements and tasks management
 
 ### Functional requirements
