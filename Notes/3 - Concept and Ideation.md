@@ -8,7 +8,7 @@ Modelo que descreve o que os utilizadores podem fazer no sistema. Expressa objec
 - Não é um diagrama do sistema;
 - Não representa ações, nem especifica as interações possíveis;
 
-Um exemplo segundo os slides:
+O modelo conceptual apresenta objectos com atributos, ações e relações entre esses mesmos objectos. Um exemplo segundo os slides:
 
 **Objects (attributes):**
 - Photo (date, caption);
@@ -36,7 +36,7 @@ Um exemplo segundo os slides:
 
 ### Functional requirements
 
-Baseados nas personas e nos seus cenários/contexto/atividade. Exemplo: "A aplicação deve ser capaz de: loggin in, manage photos...".
+Baseados nas personas e nos seus cenários/contexto/atividade. Exemplo: "A aplicação deve ser capaz de: loggin in, manage photos (insert photo, characterize), search for content...".
 
 ### Task selection
 
