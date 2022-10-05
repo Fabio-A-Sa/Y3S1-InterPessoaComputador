@@ -48,7 +48,7 @@ Avaliam a usabilidade, em termos de eficácia, eficiência e satisfação dos ut
 
 ## Ideation
 
-A ideia é o output do processo criativo, não o ponto de partida. Tem de haver um equilíbrio entre quantidade e qualidade. O modelo Agile, com curtos sprints, é melhor do que o Waterfall pois permite refinar ideias sem comprometer toda a idealização anterior do produto. <br>
+A ideia é o output do processo criativo, não o ponto de partida. Tem de haver um equilíbrio entre quantidade e qualidade. O modelo Agile, com curtos sprints, é melhor do que o Waterfall pois permite refinar ideias sem comprometer toda a idealização anterior do produto.
 
 ### Crazy 8
 
