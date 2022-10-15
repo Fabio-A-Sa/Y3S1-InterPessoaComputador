@@ -9,6 +9,8 @@ Representação concreta mas parcial do sistema, usada para coletar feedback dos
 - focar no dispositivo;
 - focar na funcionalidade; 
 
+Há protótipos **horizontais** quando há foco alargado mas superficial das tarefas e há protótipos **verticais** quando há foco aprofundado em partes específicas (desde o frontend até ao backend). 
+
 ## Técnicas de prototyping
 
 ### 1. Modo Experimental
@@ -23,17 +25,19 @@ Serve para experienciar fisicamente a situação de interação com o sistema, i
 
 #### 1.3. Wizard of Oz
 
-As funcionalidades do sistema são simuladas por humanos.
+As funcionalidades do sistema são simuladas por humanos. Bastante útil para reconhecimento de gestos, reconhecimento de línguas e inteligência artificial.
 
 ### 2. Low-Fidelity/Functional prototypes
 
+A fidelidade foca na aparência enquanto que a funcionalidade foca na resposta do sistema. 
+
 #### 2.1. Paper
 
-
+São mais fáceis e rápidos de criar, têm baixo custo e focam na ideia e não no visual. Não é escalável mas permite testar rapidamente ideias e deixar sem remorsos uma ideia má.
 
 #### 2.2. Mockups
 
-
+Representação da interface de modo mais detalhado. 
 
 ### 3. High-Fidelity/Functional prototypes
 
