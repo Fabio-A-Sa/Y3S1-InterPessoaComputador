@@ -51,3 +51,9 @@ Implementa partes da lógica do sistema. Pode até ser a plataforma final ou ape
 
 ## Ferramentas de Prototyping
 
+As ferramentas disponíveis atualmente são diferentes e adequadas para cada caso. São exemplos:
+
+- Simple Hyperlinking;
+- Figma;
+- Quant-UX;
+- Penpot;
