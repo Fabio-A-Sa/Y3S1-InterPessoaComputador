@@ -37,7 +37,7 @@ São mais fáceis e rápidos de criar, têm baixo custo e focam na ideia e não 
 
 #### 2.2. Mockups
 
-Representação da interface de modo mais detalhado. 
+Representação da interface de modo mais detalhado criado normalmente com software. Podem ser **lo-fi** como as wireframes ou **hi-fi** como os hi-res widgets. Permitem uma maior estabilidade e são mais baratos do que codificar a interface em si.
 
 ### 3. High-Fidelity/Functional prototypes
 
