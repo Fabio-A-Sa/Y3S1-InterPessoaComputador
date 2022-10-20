@@ -99,7 +99,20 @@ Não dependem das variáveis a medir. São características da solução impleme
 
 #### 1. Quantitativas
 
-
+Dados que dão para quantificar, que são específicos e que dão para medir. Repostas fechadas. Quantos erros? Qual preferes, A ou B? Quanto tempo demoraste? Completaste a tarefa? Sim ou Não?
 
 #### 2. Qualitativas
 
+Perguntas de resposta aberta. O que mais gostou na experiência? O que achaste da foto de capa?
+
+#### 3. Objectivos
+
+Não dependem das predisposições dos utilizadores, como o tempo, erros, frequência cardíaca.
+
+#### 4. Subjectivos
+
+Tem relação com a percepção do utilizador, como por exemplo as suas preferências, SUS.
+
+### Como colectar os dados?
+
+Pode ser de **forma direta**, observando os utilizadores a realizar as tarefas ou em pessoa e vídeo, ou de **forma indireta**, como diários e logs interativos automáticos.
