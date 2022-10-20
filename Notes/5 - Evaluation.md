@@ -1,8 +1,6 @@
 # 5 - Evaluation
 
-#TODO -> 5W
-
-A avaliação pode envolver os próprios utilizadores (para uma avaliação a nível da usabilidade) ou não, para avaliar o projecto de forma mas analítica. A avaliação pode ser:
+A avaliação pode envolver os próprios utilizadores (para uma avaliação a nível da usabilidade) ou não, para avaliar o projecto de forma mas analítica. Deve ser abordada segundo os 5W (Why, What, Where, When, Who, How). A avaliação pode ser:
 
 ### Formativa
 
@@ -89,13 +87,19 @@ Um sistema deve ser simples de utilizar sem ser necessário um manual, mas dúvi
 
 ### Variáveis a ser testadas
 
-#TODO -> DEP, INDEP
-1. Variáveis dependentes
+#### 1. Variáveis dependentes
 
-O seu valor depende do sistema a ser testado. 
+O seu valor depende do sistema a ser testado. Medidas a partir do tempo, quantidade de erros, SUS (System Usability Scale).
 
-2. Variáveis independentes
+#### 2. Variáveis independentes
 
-### Data Types
+Não dependem das variáveis a medir. São características da solução implementada, como o layout, cores, e características dos participantes, como idade.
 
-#TODO -> DT
+### Tipos de dados
+
+#### 1. Quantitativas
+
+
+
+#### 2. Qualitativas
+
