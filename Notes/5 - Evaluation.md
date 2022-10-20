@@ -87,31 +87,19 @@ Um sistema deve ser simples de utilizar sem ser necessário um manual, mas dúvi
 
 ### Variáveis a ser testadas
 
-#### 1. Variáveis dependentes
+- 1. Variáveis dependentes: O seu valor depende do sistema a ser testado. Medidas a partir do tempo, quantidade de erros, SUS (System Usability Scale).
 
-O seu valor depende do sistema a ser testado. Medidas a partir do tempo, quantidade de erros, SUS (System Usability Scale).
-
-#### 2. Variáveis independentes
-
-Não dependem das variáveis a medir. São características da solução implementada, como o layout, cores, e características dos participantes, como idade.
+- 2. Variáveis independentes: Não dependem das variáveis a medir. São características da solução implementada, como o layout, cores, e características dos participantes, como idade.
 
 ### Tipos de dados
 
-#### 1. Quantitativas
+- 1. `Quantitativos`: Dados que dão para quantificar, que são específicos e que dão para medir. Repostas fechadas. Quantos erros? Qual preferes, A ou B? Quanto tempo demoraste? Completaste a tarefa? Sim ou Não?
 
-Dados que dão para quantificar, que são específicos e que dão para medir. Repostas fechadas. Quantos erros? Qual preferes, A ou B? Quanto tempo demoraste? Completaste a tarefa? Sim ou Não?
+- 2. `Qualitativos`: Perguntas de resposta aberta. O que mais gostou na experiência? O que achaste da foto de capa?
 
-#### 2. Qualitativas
+- 3. `Objectivos`: Não dependem das predisposições dos utilizadores, como o tempo, erros, frequência cardíaca.
 
-Perguntas de resposta aberta. O que mais gostou na experiência? O que achaste da foto de capa?
-
-#### 3. Objectivos
-
-Não dependem das predisposições dos utilizadores, como o tempo, erros, frequência cardíaca.
-
-#### 4. Subjectivos
-
-Tem relação com a percepção do utilizador, como por exemplo as suas preferências, SUS.
+- 4. `Subjectivos`: Tem relação com a percepção do utilizador, como por exemplo as suas preferências, SUS.
 
 ### Como colectar os dados?
 
