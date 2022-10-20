@@ -115,4 +115,4 @@ Tem relação com a percepção do utilizador, como por exemplo as suas preferê
 
 ### Como colectar os dados?
 
-Pode ser de **forma direta**, observando os utilizadores a realizar as tarefas ou em pessoa e vídeo, ou de **forma indireta**, como diários e logs interativos automáticos.
+Pode ser de **forma direta**, observando os utilizadores a realizar as tarefas ou em pessoa e vídeo, ou de **forma indireta**, como diários e logs interativos automáticos. É sempre favorável realizar testes piloto de acordo com o progresso da aplicação. Os utilizadores concentram-se na recompensa, embora possam ser influenciados só pela observação ou pelo efeito da novidade.
