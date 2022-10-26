@@ -140,3 +140,27 @@ Durante um teste, devemos ter em consideração o tempo, conforto, informação,
 - Distribuir os riscos e benefícios entre os participantes;
 - Recrutamentos dos participantes de forma imparcial;
 
+## Análise Qualitativa
+
+Aplica-se com dados não numéricos, como atitudes, comportamentos, experiências, motivações, que descrevem eventos, reações e opiniões. Exemplos:
+
+- Word Clouds;
+- Análise temática, onde as respostas dão origem a códigos/labels e estes dão origem a temas;
+- Diagramas de afinidade;
+
+## Análise Quantitativa
+
+Permite fazer uma análise estatística, descritiva, inferência estatística de forma mais automática. A estatística permite:
+
+- Indentificar possíveis falhas;
+- Detectar padrões;
+- Gerar e testar hipóteses;
+- Garantir as conclusões correctas;
+
+### Tipos de medidas:
+
+- Medidas `nominais`: cores, marcas, nome;
+- Medidas `ordinais`: [pequeno, médio, grande] [feliz, neutro, infeliz];
+- Medidas `contínuas`: idade, altura, peso, tempo, número de erros;
+
+Normalmente cálculo da média, moda, mediana, desvio padrão.
