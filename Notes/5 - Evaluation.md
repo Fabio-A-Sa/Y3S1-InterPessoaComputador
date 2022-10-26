@@ -104,3 +104,39 @@ Um sistema deve ser simples de utilizar sem ser necessário um manual, mas dúvi
 ### Como colectar os dados?
 
 Pode ser de **forma direta**, observando os utilizadores a realizar as tarefas ou em pessoa e vídeo, ou de **forma indireta**, como diários e logs interativos automáticos. É sempre favorável realizar testes piloto de acordo com o progresso da aplicação. Os utilizadores concentram-se na recompensa, embora possam ser influenciados só pela observação ou pelo efeito da novidade.
+
+## Ética
+
+Durante um teste, devemos ter em consideração o tempo, conforto, informação, privacidade e controlo.
+
+- Os participantes devem ser voluntários;
+- O teste deve vir acompanhado com informação;
+- Os participantes podem sair a qualquer momento, sem pressão;
+- O sistema deve ser avaliado, não os utilizadores;
+- Privacidade quanto aos dados pessoais;
+
+### Populações vulneráveis
+
+- Crianças;
+- Pessoas com deficiência;
+- Minorias étnicas, religiosas;
+
+### Princípios da ética
+
+#### 1. Respeito pelas pessoas
+
+- As pessoas têm autonomia e escolha;
+- Não devem ser exploradas, não devem ser usadas como meio;
+- Proteger os mais vulneráveis, com o consentimento informado;
+
+#### 2. Fazer o bem
+
+- Fazer as pesquisas com o objectivo de melhorar (o sistema, a população);
+- Considerar os riscos e benificios em todas as considerações dos testes;
+
+#### 3. Justiça
+
+- Garantir o equilíbrio entre os participantes;
+- Distribuir os riscos e benefícios entre os participantes;
+- Recrutamentos dos participantes de forma imparcial;
+
