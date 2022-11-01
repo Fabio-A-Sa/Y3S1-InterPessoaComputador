@@ -32,8 +32,7 @@ Trata-se de uma avalição eurística para identificar problemas de usabilidade 
 
 #### Predictive evaluation
 
-Métodos baseados em modelos teóricos para medir a performence, os produtos e o design sem envolver diretamente os utilizadores. É mais barata do que o **user testing**.
-#TODO -> KLM and 
+Métodos baseados em modelos teóricos para medir a performence, os produtos e o design sem envolver diretamente os utilizadores. É mais barata do que o **user testing**. Por exemplo o sistema KLM (Keystroke Level Model), que mede o tempo de conclusão de tarefas com base no tempo de resposta a cada tecla e ao número de teclas pressionadas. 
 
 ## Nielsen Usability Heuristics
 
