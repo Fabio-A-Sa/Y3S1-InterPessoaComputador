@@ -188,7 +188,10 @@ Usado para variáveis nominais (como preferências, cores, marcas) e serve para 
 ### Correlação de Pearson
 
 Usada para determinar se duas variáveis estão relacionadas. Resulta em valores que variam entre -1 e 1:
-- zona negativa: as variáveis estão inversamente relacionadas;
-- zona nula: as variáveis não têm qualquer relação;
-- zona positiva: as variáveis estão diretamente relacionadas;
+- zona `negativa`: as variáveis estão inversamente relacionadas;
+- zona `nula`: as variáveis não têm qualquer relação;
+- zona `positiva`: as variáveis estão diretamente relacionadas;
 
+### Cálculo em excel
+
+Duas colunas com as amostras, cálculo da média, test e obtem o valor de T, ir à tabela e tirar conclusões sobre H0 e H1. 
