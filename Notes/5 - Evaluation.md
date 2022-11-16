@@ -163,3 +163,32 @@ Permite fazer uma análise estatística, descritiva, inferência estatística de
 - Medidas `contínuas`: idade, altura, peso, tempo, número de erros;
 
 Normalmente cálculo da média, moda, mediana, desvio padrão.
+
+## Inferência Estatística
+
+### Teste de hipótese
+
+- Escolha de uma amostra representativa da população;
+- Formular uma hipótese nula (exemplo: não há uma relação entre as variáveis A e B);
+- Efetuar os testes, recolha da informação;
+- Aplicar o tratamento estatístico;
+
+### T-Student
+
+Usado para variáveis contínuas e compara dois valores médios. Assume que a amostra tem uma distribuição normal para mais do que 30 elementos.
+
+### Intervalos de Confiança
+
+Com base numa amostra, calcula-se o intervalo de confiança para os valores medidos e atribui-se à população num todo. 
+
+### Qui-Quadrado
+
+Usado para variáveis nominais (como preferências, cores, marcas) e serve para comparar a frequência esperada dessa seleção. 
+
+### Correlação de Pearson
+
+Usada para determinar se duas variáveis estão relacionadas. Resulta em valores que variam entre -1 e 1:
+- zona negativa: as variáveis estão inversamente relacionadas;
+- zona nula: as variáveis não têm qualquer relação;
+- zona positiva: as variáveis estão diretamente relacionadas;
+
