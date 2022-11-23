@@ -26,5 +26,6 @@ A documentação interativa deve estar disponível em todo o lado no sistema, pr
 
 ### Tutorials
 
-
-#TODO->Commit Fsi
+- Tutorial externo;
+- Tutorial interno, contido na interface;
+- Video and animation;
