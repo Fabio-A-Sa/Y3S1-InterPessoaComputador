@@ -22,7 +22,7 @@ Normalmente não se usa manuais. No entanto são parte da primeira interação p
 
 ### Interactive Help
 
-A documentação interativa deve estar disponível em todo o lado no sistema, precisa, consistente, robusta, flexível e afinada a tarefas e/ou funcionalidades.
+A documentação interativa deve estar disponível em todo o lado no sistema, precisa, consistente, robusta, flexível e afinada a tarefas e/ou funcionalidades. Pode estar contida/ativa (*in the interface*) permanentemente no produto ou não (*over the interface*). Podem também existir ajudas no contexto (*contextual help*), muito comum em formulários, assistentes na interface e FAQs.
 
 ### Tutorials
 
