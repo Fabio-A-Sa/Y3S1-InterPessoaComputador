@@ -27,3 +27,14 @@ A experiência do utilizador no sistema, todo o contexto e emoções. Não há d
 
 ### 1.2 - Design Process
 
+#### 1.2.1 - Waterfall Model
+
+Assume que tudo já é completamente conhecido e especificado e testa a funcionalidade só depois da implementação. Não é uma boa escolha para desenhar produtos que dependem da subjectividade dos utilizadores.  
+
+#### 1.2.2 - Iteractive Design Process
+
+Compõem-se em curtas iterações e tem três fases principais de desenvolvimento:
+
+1. Idealizar e desenhar;
+2. Criar um protótipo;
+3. Testar e avaliar junto dos utilizadores finais, *stakeholders*;
