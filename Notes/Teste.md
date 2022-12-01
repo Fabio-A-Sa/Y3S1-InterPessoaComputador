@@ -3,7 +3,7 @@
 ## Tópicos
 
 - Interação Pessoa Computador
-- 
+- User research
 - 
 - 
 - 
@@ -38,3 +38,5 @@ Compõem-se em curtas iterações e tem três fases principais de desenvolviment
 1. Idealizar e desenhar;
 2. Criar um protótipo;
 3. Testar e avaliar junto dos utilizadores finais, *stakeholders*;
+
+## 2 - User research
