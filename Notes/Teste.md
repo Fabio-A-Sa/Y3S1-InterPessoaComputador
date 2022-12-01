@@ -4,10 +4,10 @@
 
 - Interação Pessoa Computador
 - User research
-- 
-- 
-- 
-- 
+- Ideation
+- Prototyping
+- Evaluation
+- Help and Documentation
 
 ## 1 - Interação Pessoa Computador
 
@@ -40,3 +40,16 @@ Compõem-se em curtas iterações e tem três fases principais de desenvolviment
 3. Testar e avaliar junto dos utilizadores finais, *stakeholders*;
 
 ## 2 - User research
+
+### 2.1 - People involved
+
+#### 2.1.1 - Users
+
+Utilizadores do produto final e ditarão o seu sucesso. Deve ser o centro do processo de criação, usando o UCD.
+
+#### 2.1.2 - Stakeholders
+
+Define as motivações iniciais, os objectivos e requisitos primários. Podem estar errados, pois não são os utilizadores finais.
+
+#### 2.1.3 - Designers
+
