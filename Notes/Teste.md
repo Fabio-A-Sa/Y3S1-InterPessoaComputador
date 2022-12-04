@@ -53,3 +53,12 @@ Define as motivações iniciais, os objectivos e requisitos primários. Podem es
 
 #### 2.1.3 - Designers
 
+Procuram os utilizadores para saberem as suas motivações e necessidades. Têm em consideração também os requisitos dos stakeholders.
+
+### 2.2 - Métodos de pesquisa
+
+- `Atitudinais` (o que as pessoas fazem no produto) e `Comportamentais` (o que dizem sobre o produto);
+- `Formais` (lista estruturada de tarefas, adequada para sistemas existentes) e `Informais` (exploratória, para criar novos designs);
+- `Quantitativos` e `Qualitativos`;
+- `Implícitos` (pela observação, medidas de reação e de conclusão de tarefas) e `Explícitos` (questionários, inquéritos, relatos);
+
