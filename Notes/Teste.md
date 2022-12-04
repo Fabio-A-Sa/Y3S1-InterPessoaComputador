@@ -62,3 +62,11 @@ Procuram os utilizadores para saberem as suas motivações e necessidades. Têm 
 - `Quantitativos` e `Qualitativos`;
 - `Implícitos` (pela observação, medidas de reação e de conclusão de tarefas) e `Explícitos` (questionários, inquéritos, relatos);
 
+### 2.3 - Personas
+
+Caracterização clara do utilizador, que tem como objectivo ajudar a tomar decisões no campo dos requisitos. Foca-se nos objectivos e não nas tarefas. São definidos por:
+- Motivações/Objectivos
+- Necessidades
+- Frustrações
+
+Cenários de atividade complementam as Personas. São como uma história, onde a aplicação a desenvolver poderia ser útil. Não deve ter detalhes de implementação da User Interface.
