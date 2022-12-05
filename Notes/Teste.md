@@ -101,6 +101,17 @@ Representação concreta mas parcial do sistema para coletar feedback dos utiliz
 
 #### 4.1.1 - Experimentais
 
+-
+-
+-
+
 #### 4.1.2 - Low-Fidelity/Functional prototypes
 
+-
+-
+
 #### 4.1.3 - High-Fidelity/Functional prototypes
+
+-
+-
+
