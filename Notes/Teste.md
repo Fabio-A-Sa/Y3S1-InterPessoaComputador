@@ -92,3 +92,15 @@ Um exemplo de modelo é o `Crazy8`, em que cada membro tem 8 ideias em 8 minutos
 
 ## 4 - Prototyping
 
+Representação concreta mas parcial do sistema para coletar feedback dos utilizadores. Testam-se ideias, reduz-se o tempo de produção com ideias más, foca-se na UI e nas funcionalidades. Há protótipos de dois tipos:
+
+- `Horizontais`: foco alargado mas superficial em todas as tarefas;
+- `Verticais`: foco restrito mas profundo em determinadas tarefas;
+
+### 4.1 - Técnicas
+
+#### 4.1.1 - Experimentais
+
+#### 4.1.2 - Low-Fidelity/Functional prototypes
+
+#### 4.1.3 - High-Fidelity/Functional prototypes
