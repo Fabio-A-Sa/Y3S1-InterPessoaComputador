@@ -70,3 +70,9 @@ Caracterização clara do utilizador, que tem como objectivo ajudar a tomar deci
 - Frustrações
 
 Cenários de atividade complementam as Personas. São como uma história, onde a aplicação a desenvolver poderia ser útil. Não deve ter detalhes de implementação da User Interface.
+
+## 3 - Ideation
+
+### 3.1 - Conceptual Model
+
+O que os utilizadores podem fazer no sistema, objectos, atributos e relações entre eles. Não é uma user interface, nem diagrama do sistema, nem especifica as interações possíveis nem o **mental model** do utilizador.
