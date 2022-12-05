@@ -89,3 +89,6 @@ Avaliam a usabilidade ao nível da eficácia (erros), eficiência (cliques) e sa
 
 A ideação é o output do processo criativo e inovador, não o ponto de partida. Tem de haver um equilíbrio entre a quantidade e qualidade, usando o modelo *Agile*. <br>
 Um exemplo de modelo é o `Crazy8`, em que cada membro tem 8 ideias em 8 minutos e apresenta ao resto da equipa as melhores em 3 minutos.
+
+## 4 - Prototyping
+
