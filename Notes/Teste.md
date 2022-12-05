@@ -107,11 +107,14 @@ Representação concreta mas parcial do sistema para coletar feedback dos utiliz
 
 #### 4.1.2 - Low-Fidelity
 
--
--
+Focam-se mais na funcionalidade e na possível resposta do sistema:
+
+- `Papel`, baixo custo, fáceis e rápidos, mas não são escaláveis;
+- `Mockup`, de maior custo e mais demorados. Podem ser *lo-fi* (como os wireframes) ou *hi-fi* (como os hi-res widgets);
 
 #### 4.1.3 - High-Fidelity
 
--
--
+Além da funcionalidade, já se focam também na aparência:
 
+- `Interactive mockups`, através de hiperlinks que levam a outras páginas, interações não programáveis; 
+- `Functional mockups`, implementa partes lógicas do sistema, normalmente é um protótipo vertical e hi-fi;
