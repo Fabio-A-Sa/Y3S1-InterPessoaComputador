@@ -101,16 +101,16 @@ Representação concreta mas parcial do sistema para coletar feedback dos utiliz
 
 #### 4.1.1 - Experimentais
 
--
+- `Storyboard`, conjunto de desenhos que contam uma história onde a aplcação é útil;
+- `Bodystroming`, através de role plays o utilizador experimenta fisicamente a situação;
+- `Wizard of Oz`, as funcionalidades são simuladas por humanos, serve para reconhecimento de gestos ou língua de sistemas complexos;
+
+#### 4.1.2 - Low-Fidelity
+
 -
 -
 
-#### 4.1.2 - Low-Fidelity/Functional prototypes
-
--
--
-
-#### 4.1.3 - High-Fidelity/Functional prototypes
+#### 4.1.3 - High-Fidelity
 
 -
 -
