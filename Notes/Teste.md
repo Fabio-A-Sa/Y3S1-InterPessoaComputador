@@ -76,3 +76,10 @@ Cenários de atividade complementam as Personas. São como uma história, onde a
 ### 3.1 - Conceptual Model
 
 O que os utilizadores podem fazer no sistema, objectos, atributos e relações entre eles. Não é uma user interface, nem diagrama do sistema, nem especifica as interações possíveis nem o **mental model** do utilizador.
+
+### 3.2 - Functional Requirements
+
+Definem um conjunto de funcionalidades do sistema para ilustrar a sua funcionalidade e cobrir os requisitos. Devem responder ao que fazer e não como fazer, não mencionando a interface.
+
+### 3.3 - Usability Requirements
+
