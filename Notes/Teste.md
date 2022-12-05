@@ -83,3 +83,9 @@ Definem um conjunto de funcionalidades do sistema para ilustrar a sua funcionali
 
 ### 3.3 - Usability Requirements
 
+Avaliam a usabilidade ao nível da eficácia (erros), eficiência (cliques) e satisfação (parte qualitativa subjectiva) dos utilizadores.
+
+### 3.4 - Ideation
+
+A ideação é o output do processo criativo e inovador, não o ponto de partida. Tem de haver um equilíbrio entre a quantidade e qualidade, usando o modelo *Agile*. <br>
+Um exemplo de modelo é o `Crazy8`, em que cada membro tem 8 ideias em 8 minutos e apresenta ao resto da equipa as melhores em 3 minutos.
