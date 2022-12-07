@@ -118,3 +118,19 @@ Além da funcionalidade, já se focam também na aparência:
 
 - `Interactive mockups`, através de hiperlinks que levam a outras páginas, interações não programáveis; 
 - `Functional mockups`, implementa partes lógicas do sistema, normalmente é um protótipo vertical e hi-fi;
+
+## 5 - Evaluation
+
+De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma avaliação `formativa`, durante o processo do design para apontar para a fase seguinte do protótipo ou `sumativa`, no final para medir o sucesso através de testes quantitativos. A avaliação pode conter os utilizadores (field studies, ubsability testing) ou não (analytical evaluation).
+
+### 5.1 - Evaluation com Utilizadores
+
+- `Field Studies`, testar em ambiente natural para entender o comportamento dos utilizadores. Identificam oportunidades e requisitos;
+- `Usability Testing`, medição da performence dos utilizadores nas tarefas. No final existe um questionário para as partes não quantificáveis;
+
+### 5.2 - Evaluation sem Utilizadores
+
+- ``
+- ``
+
+
