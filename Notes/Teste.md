@@ -183,3 +183,13 @@ O grau de confiança (1 - *alpha*) é importante. Formula-se duas hipóteses:
 
 ## 6 - Help and Documentation
 
+### 6.1 - Procura da informação:
+
+- `Browsing`, ver no geral o que está disponível
+- `Search`, o utilizador sabe o que quer mas necessita de ajuda para saber onde está;
+- `Query`, o utilizador tem uma ideia do que quer, mas não sabe o que concretamente é;
+- `Structured Search`, permite convergir para o resultado que procura, como telemóveis e acessórios > cabos e adaptadores > cabos HDMI; 
+- `Guide search`, processo de diferentess passos e cada um é restrito, como em compras online ou transferências bancárias;
+
+### 6.2 - Documentação
+
