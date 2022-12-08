@@ -150,5 +150,8 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 
 Os testes podem ser **between-subjects/inter-groups** quando cada grupo testa o seu sistema ou **within-subjects/intra-group** quando todos testam todos os sistemas.<br> 
 As variáveis testadas podem ser independentes (como o layout, cores, características dos participantes) e dependentes (quantidade de erros, cliques). <br>
-Os dados testados podem ser quantitativos, qualitativos, objectivos e subjectivos.
+Os dados testados podem ser quantitativos, qualitativos, objectivos e subjectivos, muitas vezes usa-se a SUS (*System Usability Scale*) para casos subjectivos e qualitativos da aplicação. Podem ser coletados de forma direta ou indireta. 
 
+## 5.5 - Ética
+
+Durante o teste devemos ter em consideração o tempo, conforto, informação, privacidade e controlo. 
