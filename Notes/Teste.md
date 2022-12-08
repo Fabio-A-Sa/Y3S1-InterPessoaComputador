@@ -154,4 +154,4 @@ Os dados testados podem ser quantitativos, qualitativos, objectivos e subjectivo
 
 ## 5.5 - Ética
 
-Durante o teste devemos ter em consideração o tempo, conforto, informação, privacidade e controlo. 
+Durante o teste devemos ter em consideração o tempo, conforto, informação, privacidade e controlo. Existem três princípios fundamentais da ética: respeito, caridade/fazer o bem (fazer a pesquisa com objectivo de melhorar) e justiça (garantir o equilóbrio entre os participantes). 
