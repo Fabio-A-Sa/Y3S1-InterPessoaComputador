@@ -131,7 +131,7 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 ### 5.2 - Avaliação sem Utilizadores
 
 - `Heuristic Evaluation`, método analítico que é bom para avaliar protótipos inicias, é rápido e barato. 
-- `Predictive Method`,
+- `Predictive Evaluation`, mais barata mas limitada a sistemas como tarefas previsíveis. Por exemplo o KML, que mede o tempo de resposta de cada tecla no teclado;
 
 ### 5.3 - Eurísticas de Nielsen
 
@@ -145,4 +145,10 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 8. Aesthetic and minimalist design
 9. Help users recognize, diagnose, and recover from errors, obtendo mensagens de erros claras;
 10. Help and documentation, o sistema deve ser simples de modo a não ser necessário um manual;
+
+## 5.4 - Testing
+
+Os testes podem ser **between-subjects/inter-groups** quando cada grupo testa o seu sistema ou **within-subjects/intra-group** quando todos testam todos os sistemas.<br> 
+As variáveis testadas podem ser independentes (como o layout, cores, características dos participantes) e dependentes (quantidade de erros, cliques). <br>
+Os dados testados podem ser quantitativos, qualitativos, objectivos e subjectivos.
 
