@@ -193,3 +193,8 @@ O grau de confiança (1 - *alpha*) é importante. Formula-se duas hipóteses:
 
 ### 6.2 - Documentação
 
+Através de escritores técnicos, engenheiros da área e designers. Não é possível ter uma boa documentação sem uma boa interface. Também deve ser testada e avaliada.
+
+#### 6.2.1 - Manuais
+
+
