@@ -197,4 +197,20 @@ Através de escritores técnicos, engenheiros da área e designers. Não é poss
 
 #### 6.2.1 - Manuais
 
+- `User Manual`, orientado às tarefas;
+- `Quick Start Guide`, orientado às principais tarefas;
+- `Reference Manual`, orientado às funcionalidades;
+- `Quick Reference Manual`, orientado às funcionalidades principais;
 
+#### 6.2.2 - Interactive Help
+
+- `Over the interface`, temporários e externos à interface, mas ajudam na navegação;
+- `In the interface`, internos à aplicação, como labels;
+- `Contextual help`, comum em formulários, os botões de popup de ajuda com ícone de interrogação;
+- `Assistentes`;
+
+#### 6.2.3 - Tutoriais
+
+- `Descritivos`, com um passo a passo em modo texto com imagens ilustrativas;
+- `In-app`;
+- `Video/Animation`;
