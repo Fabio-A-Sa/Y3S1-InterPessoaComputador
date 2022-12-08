@@ -160,5 +160,11 @@ Durante o teste devemos ter em consideração o tempo, conforto, informação, p
 
 ### 5.6.1 - Análise qualitativa
 
+Dados não numéricos podem ser agrupados em "Word Clouds", por temas (campo subjectivo, podendo ser emergente, quando nada está predefinido, ou estruturado) e por afinidade. Este último usa post-its e cria um limitado número de temas.
 
 ### 5.6.2 - Análise quantitativa
+
+Dados numéricos podem ser nominais (cores, marcas), ordinais (pequeno, médio, grande) ou contínuos (idade, tempo, peso). Em termos de avaliação, para variáveis contínuas usa-se a média e o desvio padrão, para variáveis nominais usa-se a moda e para ordinais a mediana e moda. 
+
+## 5.7 - Inferência Estatística
+
