@@ -146,38 +146,40 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 9. Help users recognize, diagnose, and recover from errors, obtendo mensagens de erros claras;
 10. Help and documentation, o sistema deve ser simples de modo a não ser necessário um manual;
 
-## 5.4 - Testing
+### 5.4 - Testing
 
 Os testes podem ser **between-subjects/inter-groups** quando cada grupo testa o seu sistema ou **within-subjects/intra-group** quando todos testam todos os sistemas.<br> 
 As variáveis testadas podem ser independentes (como o layout, cores, características dos participantes) e dependentes (quantidade de erros, cliques). <br>
 Os dados testados podem ser quantitativos, qualitativos, objectivos e subjectivos, muitas vezes usa-se a SUS (*System Usability Scale*) para casos subjectivos e qualitativos da aplicação. Podem ser coletados de forma direta ou indireta. 
 
-## 5.5 - Ética
+### 5.5 - Ética
 
 Durante o teste devemos ter em consideração o tempo, conforto, informação, privacidade e controlo. Existem três princípios fundamentais da ética: respeito, caridade/fazer o bem (fazer a pesquisa com objectivo de melhorar) e justiça (garantir o equilóbrio entre os participantes). 
 
-## 5.6 - Análise de dados
+### 5.6 - Análise de dados
 
-### 5.6.1 - Análise qualitativa
+#### 5.6.1 - Análise qualitativa
 
 Dados não numéricos podem ser agrupados em "Word Clouds", por temas (campo subjectivo, podendo ser emergente, quando nada está predefinido, ou estruturado) e por afinidade. Este último usa post-its e cria um limitado número de temas.
 
-### 5.6.2 - Análise quantitativa
+#### 5.6.2 - Análise quantitativa
 
 Dados numéricos podem ser nominais (cores, marcas), ordinais (pequeno, médio, grande) ou contínuos (idade, tempo, peso). Em termos de avaliação, para variáveis contínuas usa-se a média e o desvio padrão, para variáveis nominais usa-se a moda e para ordinais a mediana e moda. 
 
-## 5.7 - Inferência Estatística
+### 5.7 - Inferência Estatística
 
-### 5.7.1 - Teste de hipótese
+#### 5.7.1 - Teste de hipótese
 
 O grau de confiança (1 - *alpha*) é importante. Formula-se duas hipóteses:
 - H0, hipótese nula, que indica que não existe relação entre as variáveis;
 - H1, hipótese que assume o que se quer verificar (que a relação é direta, por eemplo). 
 
-### 5.7.2 - Estatísticas
+#### 5.7.2 - Estatísticas
 
 - `T-Student`, para variáveis contínuas, comparando o seu valor médio. Há uma distribuição normal para mais de 30 elementos;
 - `Intervalos de Confiança`, com base numa amostra compara a média num intervalo para inferir na população num todo;
 - `Qui-quadrado`, compara a frequência esperada com a observada;
 - `Correlação de Pearson` usada para determinar se duas variáveis dependem. Resulta em valores na gama [-1..1];
+
+## 6 - Help and Documentation
 
