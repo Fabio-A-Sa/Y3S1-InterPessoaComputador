@@ -130,14 +130,14 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 
 ### 5.2 - Avaliação sem Utilizadores
 
-- `Heuristic Method`, método analítico
+- `Heuristic Method`, método analítico que é bom para avaliar protótipos inicias, é rápido e barato. 
 - `Predictive Method`,
 
 ### 5.3 - Eurísticas de Nielsen
 
--
--
--
+1. Visibilidade do status do sistema (barra de progresso);
+2. Mensagems com uma linguagem natural (sistema-realidade);
+3. 
 -
 -
 -
