@@ -130,18 +130,19 @@ De acordo com a visão 5W1H (Why, What, Where, When, Who, How). Pode ser uma ava
 
 ### 5.2 - Avaliação sem Utilizadores
 
-- `Heuristic Method`, método analítico que é bom para avaliar protótipos inicias, é rápido e barato. 
+- `Heuristic Evaluation`, método analítico que é bom para avaliar protótipos inicias, é rápido e barato. 
 - `Predictive Method`,
 
 ### 5.3 - Eurísticas de Nielsen
 
 1. Visibilidade do status do sistema (barra de progresso);
 2. Mensagems com uma linguagem natural (sistema-realidade);
-3. 
--
--
--
--
--
-
+3. User control and freedom, alertas para operações de maior risco, para poderem ser revertidas;
+4. Consistência, botões e cores do mesmo lado;
+5. Errors prevention, dando os limites de escolha e mensagens de confirmação;
+6. Recognition rather recall, não apelar à memória dos utilizadores;
+7. Flexibility and efficiency of use, usando atalhos para utilizadores experientes;
+8. Aesthetic and minimalist design
+9. Help users recognize, diagnose, and recover from errors, obtendo mensagens de erros claras;
+10. Help and documentation, o sistema deve ser simples de modo a não ser necessário um manual;
 
