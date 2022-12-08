@@ -176,7 +176,8 @@ O grau de confiança (1 - *alpha*) é importante. Formula-se duas hipóteses:
 
 ### 5.7.2 - Estatísticas
 
-- `T-Student`, para variáveis contínuas e averiguar o valor médio. Há uma distribuição normal para mais de 30 elementos;
-- `Intervalos de Confiança`, com base numa amostra para inferir na população num todo;
-- `Qui-quadrado`, usada para determinar se duas variáveis dependem. Resulta em valores na gama [-1..1].
-- ``
+- `T-Student`, para variáveis contínuas, comparando o seu valor médio. Há uma distribuição normal para mais de 30 elementos;
+- `Intervalos de Confiança`, com base numa amostra compara a média num intervalo para inferir na população num todo;
+- `Qui-quadrado`, compara a frequência esperada com a observada;
+- `Correlação de Pearson` usada para determinar se duas variáveis dependem. Resulta em valores na gama [-1..1];
+
